@@ -17,7 +17,7 @@
 
 from absl.testing import absltest
 from absl.testing import parameterized
-from . import instructions_util
+import instructions_util
 
 
 class InstructionsUtilTest(parameterized.TestCase):

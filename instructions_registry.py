@@ -14,7 +14,7 @@
 # limitations under the License.
 
 """Registry of all instructions."""
-from . import instructions
+import instructions
 
 _KEYWORD = "keywords:"
 
