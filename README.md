@@ -41,4 +41,3 @@ If you use our work, please consider citing our preprint:
   journal={arXiv preprint arXiv:2311.07911},
   year={2023}
 }
-```# instruction_following_eval
